@@ -1,5 +1,5 @@
 
- Autonomous Vehicles & Robotics – Python Simulation
+ Autonomous Vehicles & Robotics 
 
  Project Overview  
 🚘🤖 This project simulates a  Autonomous Vehicles and Robotics System using Python. It emulates how autonomous robots or vehicles operate using sensor input, control algorithms, and decision-making systems. The simulation covers real-time perception, path planning, obstacle avoidance, and task execution.
