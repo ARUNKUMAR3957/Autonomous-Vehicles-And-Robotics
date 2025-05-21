@@ -17,3 +17,7 @@ autonomous-vehicle-robotics/ autonomous_vehicle_sim.py      #
 
 Output file with logs from a sample run:
 simulation_output.log          # Output file with logs from a sample run 
+## Requirements
+
+- Python 3.6+
+- No external libraries required (uses only built-in modules)
