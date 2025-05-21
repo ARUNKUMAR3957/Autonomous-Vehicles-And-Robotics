@@ -1,0 +1,9 @@
+Simulation started.
+Planning path from (0, 0) to (9, 19)...
+Path found: [(0, 0), (1, 0), (2, 0), ..., (9, 19)]
+Moved to (0, 0)
+Moved to (1, 0)
+Moved to (2, 0)
+...
+Moved to (9, 19)
+Simulation ended.
