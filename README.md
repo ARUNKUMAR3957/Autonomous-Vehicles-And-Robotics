@@ -26,9 +26,7 @@ simulation_output.log          # Output file with logs from a sample run
 ## Run the simulation
 
 python autonomous_vehicle_sim.py
-Run the simulation
-
-python autonomous_vehicle_sim.py
+for Run the simulation
 
 
 ## View Output
