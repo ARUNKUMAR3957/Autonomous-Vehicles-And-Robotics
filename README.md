@@ -23,6 +23,9 @@ simulation_output.log          # Output file with logs from a sample run
 - Python 3.6+
 - No external libraries required (uses only built-in modules)
 
+## Run the simulation
+
+python autonomous_vehicle_sim.py
 Run the simulation
 
 python autonomous_vehicle_sim.py
